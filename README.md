@@ -6,8 +6,7 @@ This repository contains 3D animations, character rigs, and assets for **America
 
 ## 🎬 Demo
 
-https://github.com/AbdulMuqeet2468/3d_signlanguage/media/hello_formal.mp4
-
+https://github.com/user-attachments/assets/89cb8782-3274-4971-96d1-b571ae4192b7
 > Sample animation: 'hello' greeting (ASL) rendered on the Eric character.
 
 ---
